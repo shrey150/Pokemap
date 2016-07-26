@@ -15,7 +15,7 @@ import java.util.List;
 public class SearchParams {
     private static final String TAG = "SearchParams";
 
-    public static final int DEFAULT_RADIUS = 100;
+    public static final int DEFAULT_RADIUS = 1000;
     public static final double DISTANCE = 173.1;
 
     private int mRadius;
